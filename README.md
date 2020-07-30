@@ -17,6 +17,8 @@ Causes of seizures (in terms of neural circuits, excitation/inhibition neurotran
 =======
 Desccription of Project: We are testing desynchronizing inhibitory neuron firing as a treatment for epilepsy.
 
+We still need some help accessing the model code that we are trying to use ***
+
 ## Goals of the Research Project
 
 
