@@ -5,16 +5,6 @@ Group E Project
 
 Project Question:
 
-Desccription of Project: We are testing desynchronizing inhibitory neuron firing as a treatment for epilepsy.
+Desccription of Project:
 
 Questions or Thoughts we have:
-
-Intro
-GABA/Glutamate/Ach Models for Epileptic activity
-Basic normal vs epileptic neuron single cell graph
-The Gaba plot could be used to explain why treatments for epilepsy today are more focused on increasing GABA levels
-Model how over time epilepsy → more epilepsy 
-Results
-Model of why synchronized firing of Inhibitory neurons may be disadvantageous
-Our proposed model of desynchronizing neuron firing
-
