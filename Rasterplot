@@ -1,0 +1,25 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Aug  6 17:37:38 2020
+
+@author: erichib
+"""
+import numpy as np
+import matplotlib.pyplot as plt
+openfile = open('spikerast1.txt', 'r').readlines()
+xvar = []
+yvar = []
+for row in openfile:
+    row = row.split()
+    x = float(row[0].strip())
+    y = float(row[1].strip())
+    xvar.append(x)
+    yvar.append(y)
+    
+print(xvar)
+print(yvar)
+mydata = np.loadtxt("spikerast1.txt")
+plt.scatter(xvar, yvar)
+plt.xlabel('time')
+plt.ylabel('y')
+plt.show()
